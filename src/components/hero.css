@@ -1,0 +1,13 @@
+.container{
+    margin-top: 15%;
+}
+.button1{
+    font-weight: bold;
+    background-color:#00A0E0;
+    font-size: medium;
+    
+
+}
+.button1:hover {
+    background-color: blue; 
+  }

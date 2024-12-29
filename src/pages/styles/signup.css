@@ -1,0 +1,13 @@
+.btn{
+  font-weight: bold;
+  background-color:#00A0E0;
+  font-size: medium;
+}
+.btn:hover{
+    background-color: blue;
+  }
+.custom-grey {
+    background-color: #cccccc; /* Light grey */
+    color: #333333; /* Dark text */
+    display: inline-block;
+  }

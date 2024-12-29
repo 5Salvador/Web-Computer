@@ -1,0 +1,23 @@
+.box{
+    margin-top: 150px;
+    margin-bottom: 10%;
+}
+.about{
+    color: #00A0E0;
+}
+.para1{
+    margin-top: 12%;
+}
+.logos{
+    margin-top: 9%;
+}
+.button3{
+    font-weight: bold;
+    background-color:#00A0E0;
+    font-size: medium;
+    text-align: center;
+
+}
+.button3:hover {
+    background-color: blue; 
+}

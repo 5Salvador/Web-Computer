@@ -1,0 +1,47 @@
+.container{
+    margin-bottom: 8%;
+}
+.services{
+    color: #00A0E0;
+}
+.margin{
+    margin-top: 8%;
+}
+.cards{
+    margin-top: 5%;
+}
+.custom-card {
+    border: none;
+    border-radius: 10px;
+    background-color: #f7f7f7;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .custom-card img {
+    width: 50px;
+    margin-bottom: 15px;
+    background-color:  #f7f7f7;
+  }
+  .custom-card h5 {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+  }
+  .custom-card p {
+    color: #666;
+    font-size: 0.9rem;
+  }
+  .text{
+    background-color:  #f7f7f7;
+    font-weight: bold;
+  }
+.button5{
+  font-weight: bold;
+  background-color:#00A0E0;
+  font-size: medium;
+  text-align: center;
+  position: absolute;
+}
+.button5:hover{
+  background-color: blue;
+}
